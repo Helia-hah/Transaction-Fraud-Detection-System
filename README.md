@@ -15,10 +15,10 @@ AI Transaction Guardian is a FastAPI service for analyzing transaction data usin
 
 ### 🛠️ Tech Stack
 ---
-- Backend: Python, FastAPI
-- Frontend: Next.js, Tailwind CSS
-- AI / LLM: OpenAI GPT, Amazon Bedrock
-- Storage: Local files, AWS S3
-- Deployment: AWS Lambda
-- API Gateway: AWS API Gateway
-- CDN / Delivery: AWS CloudFront
+- **Backend**: Python, FastAPI
+- **Frontend**: Next.js, Tailwind CSS
+- **AI / LLM**: OpenAI GPT, Amazon Bedrock
+- **Storage**: Local files, AWS S3
+- **Deployment**: AWS Lambda
+- **API Gateway**: AWS API Gateway
+- **CDN / Delivery**: AWS CloudFront
