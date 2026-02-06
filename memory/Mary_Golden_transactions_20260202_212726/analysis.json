@@ -1,0 +1,38 @@
+[
+  {
+    "trans_num": "8cc9fde58af96aa278816f978ac90117",
+    "trans_date_trans_time": "2019-02-12 01:54:28",
+    "reason": "The transaction of $893.06 categorized as 'Miscellaneous online purchase' is unusually high, considering typical amounts for such purchases are generally lower.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "879ce2475f321aeaad3ef2c1079ad7e5",
+    "trans_date_trans_time": "2019-02-12 06:49:03",
+    "reason": "This transaction of $719.27 categorized as 'Miscellaneous online purchase' is also unusually high and out of the ordinary compared to standard online purchases.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "9607f8323085de79745f855047281436",
+    "trans_date_trans_time": "2019-02-12 22:10:54",
+    "reason": "The amount of $968.46 for 'Shopping online purchase' is considerably high for a single transaction. Online shopping transactions of this magnitude are often flagged for review.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "9a1f726f7856974e9726a7b71d22d4d7",
+    "trans_date_trans_time": "2019-02-13 22:16:34",
+    "reason": "A transaction amount of $1016.39 categorized as 'Shopping online purchase' is significantly high, which raises suspicion for potential fraudulent activity.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "4ae465f7293495ebb6b24cb82ae5f043",
+    "trans_date_trans_time": "2019-02-13 23:32:20",
+    "reason": "This transaction of $934.79 for 'Shopping online purchase' is also unusually high, which may indicate potential fraud.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "fe673658c455116260ecfcbe2c8b7f9b",
+    "trans_date_trans_time": "2019-02-13 23:55:27",
+    "reason": "The amount of $709.16 categorized as 'Shopping in-store purchase' is substantially high, suggesting it may be suspicious.",
+    "confidence": "high"
+  }
+]

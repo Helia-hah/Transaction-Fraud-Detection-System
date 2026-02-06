@@ -1,0 +1,32 @@
+[
+  {
+    "trans_num": "7e8d6aa8dbe64ab6a73483fb9118de25",
+    "trans_date_trans_time": "2020-06-03 16:40:31",
+    "reason": "Transaction amount of $9.03 at a health and fitness merchant is unusually low and could indicate a test transaction or fraud attempt.",
+    "confidence": "medium"
+  },
+  {
+    "trans_num": "26beaa990578acb2f6a8ad19e6b6818d",
+    "trans_date_trans_time": "2020-06-04 17:40:52",
+    "reason": "Transaction amount of $149.39 for personal care is significantly high for a typical personal care item, raising suspicion.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "567ce196f304167b2a70725a16d4431d",
+    "trans_date_trans_time": "2020-06-08 03:10:27",
+    "reason": "Late night transaction at a grocery store for $128.11 is unusual and could indicate a fraud attempt.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "6914b7c843572a992df8541d9d64d1d2",
+    "trans_date_trans_time": "2020-06-15 15:24:26",
+    "reason": "Transaction of $23.40 for entertainment is not suspicious on its own, but considering other flagged transactions it contributes to an unusual spending pattern.",
+    "confidence": "low"
+  },
+  {
+    "trans_num": "c1006d9fe55c2ce5e5669b75dc30426e",
+    "trans_date_trans_time": "2020-06-21 04:58:55",
+    "reason": "High-value transaction of $380.82 for online shopping during early morning hours raises concerns for potential fraud.",
+    "confidence": "high"
+  }
+]

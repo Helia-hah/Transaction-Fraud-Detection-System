@@ -1,0 +1,38 @@
+[
+  {
+    "trans_num": "8cc9fde58af96aa278816f978ac90117",
+    "trans_date_trans_time": "2019-02-12 01:54:28",
+    "reason": "The transaction for $893.06 at a miscellaneous online merchant is unusually high, particularly coming at 1:54 AM, a time that is often associated with fraudulent activity.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "879ce2475f321aeaad3ef2c1079ad7e5",
+    "trans_date_trans_time": "2019-02-12 06:49:03",
+    "reason": "The transaction amount of $719.27 for a miscellaneous online purchase is significantly high, especially for an early morning transaction.",
+    "confidence": "medium"
+  },
+  {
+    "trans_num": "9607f8323085de79745f855047281436",
+    "trans_date_trans_time": "2019-02-12 22:10:54",
+    "reason": "The shopping online transaction for $968.46 is high value and occurs late at night, which raises suspicion.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "1329171394",
+    "trans_date_trans_time": "2019-02-13 22:16:34",
+    "reason": "The transaction for $1016.39 at a shopping online merchant is a high-value transaction, and the timing is late, which is often flagged for suspicious activities.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "4ae465f7293495ebb6b24cb82ae5f043",
+    "trans_date_trans_time": "2019-02-13 23:32:20",
+    "reason": "The transaction of $934.79 for shopping online is quite high and occurs late at night, which may indicate a higher risk for fraud.",
+    "confidence": "medium"
+  },
+  {
+    "trans_num": "fe673658c455116260ecfcbe2c8b7f9b",
+    "trans_date_trans_time": "2019-02-13 23:55:27",
+    "reason": "The shopping pos transaction of $709.16 is a high amount, occurring late at night, which raises potential concerns about fraud.",
+    "confidence": "medium"
+  }
+]

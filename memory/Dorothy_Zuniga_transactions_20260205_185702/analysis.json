@@ -1,0 +1,32 @@
+[
+  {
+    "trans_num": "676c15afe59fee7bead3959fb21aaa0b",
+    "trans_date_trans_time": "2020-06-13 11:47:17",
+    "reason": "The transaction amount of $294.71 for a miscellaneous purchase is unusually high, suggesting potential fraudulent activity.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "01bf9f50b86cb4de85edc3e86a78c7cd",
+    "trans_date_trans_time": "2020-06-14 17:57:53",
+    "reason": "The shopping transaction for $148.19 is significantly higher than typical for such purchases, which raises suspicion.",
+    "confidence": "medium"
+  },
+  {
+    "trans_num": "4d3b1b84bd7ff14deb3d9ad3733601c5",
+    "trans_date_trans_time": "2020-06-16 04:50:49",
+    "reason": "A grocery store purchase of $194.29 early in the morning is suspicious; such high values are uncommon at this hour.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "6f42d301fc6f314fc113217417714f99",
+    "trans_date_trans_time": "2020-06-18 05:27:11",
+    "reason": "The late-night grocery store purchase of $178.42 is notably high and happening at an unusual time.",
+    "confidence": "high"
+  },
+  {
+    "trans_num": "23abcf1a0fdf1076e572e0a74de08086",
+    "trans_date_trans_time": "2020-06-21 04:22:46",
+    "reason": "A grocery store transaction of $230.57 very early in the morning raises suspicion due to its high amount and timing.",
+    "confidence": "high"
+  }
+]
