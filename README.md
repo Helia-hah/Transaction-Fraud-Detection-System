@@ -8,23 +8,17 @@ AI Transaction Guardian is a FastAPI service for analyzing transaction data usin
 - Supports multiple AI backends:
   1. 🧠 OpenAI GPT models
   2. ☁️ AWS Bedrock models
-- 🗄️ Save results:
+- Save results:
   1. 💻 Local storage
   2. ☁️ AWS S3 storage
-- 📊 Returns analysis in JSON format
+- Returns analysis in JSON format
 
-
-
-
-
-Tech Stack
-
-Backend: Python, FastAPI
-
-AI: OpenAI GPT / Amazon Bedrock
-
-Data processing: Pandas
-
-Storage: Local files or AWS S3
-
-Deployment: AWS Lambda compatible
+### 🛠️ Tech Stack
+---
+- Backend: Python, FastAPI
+- Frontend: Next.js, Tailwind CSS
+- AI / LLM: OpenAI GPT, Amazon Bedrock
+- Storage: Local files, AWS S3
+- Deployment: AWS Lambda
+- API Gateway: AWS API Gateway
+- CDN / Delivery: AWS CloudFront
