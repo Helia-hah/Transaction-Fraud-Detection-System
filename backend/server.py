@@ -227,19 +227,6 @@ async def analyze_transactions(file: UploadFile = File(...)):
 
         system_prompt, user_prompt = generate_prompt(transactions)
 
-        # messages = [
-        #     {"role": "system", "content": system_prompt},
-        #     {"role": "user", "content": user_prompt},
-        # ]
-        
-        # response = client.chat.completions.create(
-        #     model="gpt-4o-mini",
-        #     messages=messages
-        # )
-
-        # #Exctract text output from the model
-        # llm_output = response.choices[0].message.content
-
         if USE_BEDROCK:
             llm_output = call_bedrock(system_prompt, user_prompt)
         else:
