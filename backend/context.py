@@ -4,7 +4,6 @@ import pandas as pd
 def generate_prompt(df):
     """
     df: DataFrame containing transactions for ONE user only
-    Assumes df has all the columns listed.
     """
     
     # Limit the DataFrame to the most recent 100 rows
